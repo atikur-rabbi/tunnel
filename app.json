@@ -2,6 +2,6 @@
   "name": "WeTunnel App",
   "description": "A barebones tunneling app",
   "repository": "https://github.com/atikur-rabbi/tunnel",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://github.com/atikur-rabbi/wetunnel/raw/master/node.svg",
   "keywords": ["node", "express", "static"]
 }
